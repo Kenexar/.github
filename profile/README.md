@@ -16,7 +16,7 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=blue">
-  <img alt="Lua" src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=lua&logoColor=white">
+  <img alt="Lua" src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   
   
   ### Our Website:
