@@ -19,4 +19,7 @@
   
   ### Our Website:
   <img alt="Kenexar.eu" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fkenexar.eu">
+  
+  ### Discord:
+  <iframe src="https://discord.com/widget?id=846128131001155614&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
