@@ -18,7 +18,7 @@
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=blue">
   <br>
   <img alt="Lua" src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Lua" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=bash&logoColor=white">
+  <img alt="Lua" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=blue">
   
