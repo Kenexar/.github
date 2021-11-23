@@ -1,5 +1,5 @@
 ## Kenexar
-<p>Hey, we are KenexarEU</p>
+<p>Hey, we are KenexarEU</p> cogörs
 
 <p> We are coding in serveral Languages, for fun</p>
 
