@@ -1,10 +1,8 @@
-## Kenexar
-<p>Hey, we are KenexarEU</p>
-
-<p> We are coding in serveral Languages, for fun</p>
-
 <div align = "center"> 
+  # Kenexar
+  <p>Hey, we are KenexarEU</p>
 
+  <p> We are coding in serveral Languages, for fun</p>
   ### Our skills:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
