@@ -22,7 +22,7 @@
   <img alt="VBA" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
   
   <h2>Tools that we use:</h2>
-  <img alt="JetBrains" src="https://img.shields.io/badge/Jetbrains IDE's-000000?style=for-the-badge&logo=jetbrains&logoColor=white"> <p>:</p>
+  <img alt="JetBrains" src="https://img.shields.io/badge/Jetbrains IDE's-000000?style=for-the-badge&logo=jetbrains&logoColor=white"><p style="inline-block">:</p>
   
   
   <h2>Our Website:</h2>
