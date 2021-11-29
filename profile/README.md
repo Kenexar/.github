@@ -25,7 +25,7 @@
   <img alt="JetBrains" src="https://img.shields.io/badge/Jetbrains IDE's-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
   <br>
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-  <img alt="Intellij" src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=intellij&logoColor=white">
+  <img alt="Intellij" src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img alt="Php Storm" src="https://img.shields.io/badge/Php Storm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
   
   
