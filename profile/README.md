@@ -19,7 +19,7 @@
   <img alt="Bash-GNU" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="VBA" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=excel&logoColor=white">
+  <img alt="VBA" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
   
   
   <h2>Our Website:</h2>
