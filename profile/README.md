@@ -21,6 +21,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="VBA" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
   
+  <h2>Tools that we use:</h2>
+  <img alt="JetBrains" src="https://img.shields.io/badge/Jetbrains IDE's-217346?style=for-the-badge&logo=jetbrains&logoColor=white">
   
   <h2>Our Website:</h2>
   <a href="https://kenexar.eu">Kenexar.eu</a>
