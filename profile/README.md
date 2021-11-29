@@ -24,6 +24,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
   <img alt="Cinema4D" src="https://img.shields.io/badge/Cinema4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white">
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
   
   
   <h2>Our Website:</h2>
