@@ -30,5 +30,4 @@
   <h2>Our Website:</h2>
   <a href="https://kenexar.eu">Kenexar.eu</a>
   <br>
-  <img alt="Kenexar.eu" src="https://img.shields.io/website?down_color=RED&down_message=OFFLINE&up_color=GREEN&up_message=ONLINE&url=https%3A%2F%2Fkenexar.eu">
-</div>
+
