@@ -1,6 +1,8 @@
 <div align = "center"> 
   <h1>Kenexar</h1>
   <p>Hey, we are KenexarEU</p>
+  
+  ZerXGit "Till O." & Exersalza "Julian J."
 
   <p> We are coding in serveral Languages, for fun</p>
   <h2>Our skills:</h2>
